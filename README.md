@@ -9,14 +9,15 @@ Um aplicativo web simples que permite inserir o nome de uma cidade e obter infor
 - HTML
 - CSS
 - JavaScript
-- API de clima (ex: OpenWeatherMap)
-
+- API de busca e clima (OpenStreetMap & Open-Meteo)
 ## Funcionalidades
 
 - Entrada do nome da cidade pelo usuário
 - Requisição à API para obter dados do clima
 - Exibição de temperatura e vento na tela
 - Protótipo simples para fins de demonstração
+
+![](./Assets/2.png)
 
 ## Como usar
 
