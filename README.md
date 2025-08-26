@@ -1,4 +1,3 @@
-```markdown
 # WeatherApp - Protótipo
 
 Um aplicativo web simples que permite inserir o nome de uma cidade e obter informações meteorológicas atuais, como temperatura e velocidade do vento. O app consome dados de uma API de clima em tempo real.  
@@ -27,4 +26,4 @@ Um aplicativo web simples que permite inserir o nome de uma cidade e obter infor
 
 - Este é um protótipo básico, sem tratamento avançado de erros ou validações.  
 - Requer conexão com a internet para acessar a API de clima.
-```
+
